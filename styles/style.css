@@ -1,0 +1,46 @@
+header {
+	
+}
+
+nav {
+	position: static;
+	margin-left: 250px;
+	margin-top: -50px;
+	margin-bottom: 50px;
+	color: #ccffff;
+	width: 100%;
+}
+
+.headerimg {
+	width: 100%;
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	font-size: large;
+	font-weight: bolder;
+}
+
+a:link {color: #ccffff;}     /* unvisited link */
+a:visited {color: #ccffff;}  /* visited link */
+a:hover {color: #ccccff;}  /* mouse over link */
+a:active {color: #0000FF;}  /* selected link */
+
+footer {
+    color: white;
+    background-color: rgb(1, 14, 48);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+}
+.pfooter {
+	text-align: center;
+}
